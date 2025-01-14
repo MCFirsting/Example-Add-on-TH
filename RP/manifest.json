@@ -1,1 +1,63 @@
-
+{
+    "format_version": 2,
+    "header": {
+        "description": "ใส่ช่องคำอธิบาย",
+        "name": "ชื่อแพคตัวอย่าง RP",
+        "uuid": "ใส่ช่องโค๊ด",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        //ใส่ตัวเลขเวอร์ชั่นที่ตัวเกมรองรับ
+        "min_engine_version": [
+            0,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            //ประเภทคอนเทนต์ Resources Pack
+            "type": "resources",
+            "uuid": "ใส่ช่องโค๊ด",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "ชื่อผู้สร้าง"
+        ],
+        "generated_with": {
+            "ชื่อเครื่องมือสร้าง Manifest": [
+                //เวอร์ชั่น
+                "1.0.0"
+            ]
+        },
+        "license": "ใบอนุญาต",
+        "url": "ลิงค์เว็บไซต์"
+    },
+    //เลือกระหว่างการตั้งค่าและรูปแบบต่างๆ
+    "subpacks": [
+        {
+            //ชื่อโฟลเดอร์
+            "folder_name": "Low Quality",
+            //ชื่อที่แสดงในตั้งค่า
+            "name": "Low Quality", //ชื่อที่แสดงในตั้งค่า
+            //ชั้นหน่วยความจำ
+            "memory_tier": 0
+        },
+        {
+            //ชื่อโฟลเดอร์
+            "folder_name": "High Quality",
+            //ชื่อที่แสดงในตั้งค่า
+            "name": "High Quality",
+            //ชั้นหน่วยความจำ
+            "memory_tier": 5
+        }
+    ]
+}
