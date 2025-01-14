@@ -47,7 +47,7 @@
             //ชื่อโฟลเดอร์
             "folder_name": "Low Quality",
             //ชื่อที่แสดงในตั้งค่า
-            "name": "Low Quality", //ชื่อที่แสดงในตั้งค่า
+            "name": "Low Quality",
             //ชั้นหน่วยความจำ
             "memory_tier": 0
         },
