@@ -30,12 +30,6 @@
     ],
     "dependencies": [
         {
-            //ใส่ประเภทโมดูลเซิฟเวอร์
-            "module_name": "@minecraft/server",
-            //เวอร์ชั่นปัจจุบันของโมดุลเซิฟเวอร์
-            "version": "0.0.0"
-        },
-        {
             "uuid": "ใส่ช่องโค๊ดเหมือน Resources Pack (Header)",
             "version": [
                 1,
